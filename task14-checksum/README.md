@@ -44,6 +44,9 @@ chmod +x checked-upload.sh
 
 Верная сумма → 201, неверная → 409 и файл отклонён.
 
+<img width="1715" height="931" alt="image" src="https://github.com/user-attachments/assets/4f229b8e-0808-452d-86d6-ca7b9677a440" />
+
+
 **В отчёт:** оба кода ответа.
 
 > Именно так CI-системы ловят файлы, побившиеся при передаче по сети.

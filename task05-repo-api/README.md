@@ -49,6 +49,8 @@ curl -u admin:ВАШ_ПАРОЛЬ -X PUT \
 В списке репозиториев есть `myapp-local`.
 
 **В отчёт:** вывод команды из шага 1.
+<img width="927" height="394" alt="image" src="https://github.com/user-attachments/assets/6c612ee4-696e-4ccc-b9fd-82a1c74d20ab" />
+
 
 ## Если не получилось
 

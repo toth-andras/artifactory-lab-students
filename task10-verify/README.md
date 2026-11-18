@@ -41,6 +41,9 @@ shasum -a 256 myapp-1.0.0.tar.gz
 
 ## Результат
 
+<img width="1311" height="193" alt="image" src="https://github.com/user-attachments/assets/3d9ab50f-5e74-4fe0-8575-7f098637e797" />
+
+
 Суммы совпали до эксперимента и разошлись после подмены.
 
 **В отчёт:** две совпавшие суммы (своя и из API).

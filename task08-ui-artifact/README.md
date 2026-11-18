@@ -25,3 +25,5 @@
 из ответа API.
 
 **В отчёт:** скриншот панели файла с контрольными суммами.
+
+<img width="1263" height="706" alt="image" src="https://github.com/user-attachments/assets/61e4fbc5-a5c4-4ba6-8664-45f3be507bf9" />

@@ -42,6 +42,9 @@ curl -u admin:____ -T myapp-1.0.1.tar.gz \
 
 В репозитории две версии артефакта.
 
+<img width="1463" height="760" alt="image" src="https://github.com/user-attachments/assets/3d69c6af-8992-4f77-8db8-2b70032b3476" />
+
+
 **В отчёт:** скриншот дерева с двумя версиями.
 
 > Про версии `1.0.0`, `1.0.1`, `1.1.0` — смотрите слайд про SemVer

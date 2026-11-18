@@ -28,6 +28,8 @@ myapp-local
 Это имя войдёт в URL, поэтому только латиница, без пробелов.
 
 ## Шаг 4. Сохраните
+<img width="1468" height="384" alt="image" src="https://github.com/user-attachments/assets/1c912e48-e736-4558-9025-6b8802164828" />
+
 
 Нажмите **Save & Finish** (или **Create Local Repository**).
 

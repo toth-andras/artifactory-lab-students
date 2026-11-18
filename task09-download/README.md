@@ -37,6 +37,9 @@ tar -tzf myapp-1.0.0.tar.gz
 
 Файл `myapp-1.0.0.tar.gz` появился в папке задания.
 
+<img width="1011" height="69" alt="image" src="https://github.com/user-attachments/assets/00bda676-b7a0-46fa-bf64-01ebda229f58" />
+
+
 **В отчёт:** вывод `ls -la` из шага 3.
 
 > Заметьте: для скачивания используется тот же URL, что для загрузки.

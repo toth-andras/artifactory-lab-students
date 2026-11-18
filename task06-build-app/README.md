@@ -48,4 +48,6 @@ tar -tzf myapp-1.0.0.tar.gz
 
 В папке лежит `myapp-1.0.0.tar.gz`, внутри — два файла.
 
-**В отчёт:** вывод `tar -tzf myapp-1.0.0.tar.gz`.
+**В отчёт:** вывод `tar -tzf myapp-1.0.0.tar.gz`:
+<img width="168" height="107" alt="image" src="https://github.com/user-attachments/assets/b55edf75-09a7-4452-a19f-e16e38ad32f6" />
+

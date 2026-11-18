@@ -43,6 +43,11 @@ curl -o /dev/null -w "%{http_code}\n" http://localhost:8082/ui/
 
 Health-проверка возвращает 200, UI отдаёт 200.
 
+<img width="981" height="1010" alt="image" src="https://github.com/user-attachments/assets/8dac8937-dd43-4507-afa6-aaa32fd96f87" />
+
+Тест ui:
+<img width="1127" height="120" alt="image" src="https://github.com/user-attachments/assets/656da4cc-5a85-4e21-801a-7378389d0687" />
+
 **В отчёт:** вывод health-проверки с кодом 200.
 
 > Такая проверка называется healthcheck. В настоящих системах её выполняет

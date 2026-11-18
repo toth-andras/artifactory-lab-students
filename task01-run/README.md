@@ -50,7 +50,8 @@ docker compose ps
 В выводе две строки: `artifactory` и `artifactory-postgres`, статус `Up`.
 
 **В отчёт:** вывод `docker compose ps`.
-<img width="1720" height="275" alt="image" src="https://github.com/user-attachments/assets/3bd8755d-ea5f-4534-aa53-9ca8c85c6ea4" />
+<img width="1714" height="222" alt="image" src="https://github.com/user-attachments/assets/f042a707-635f-4536-89fb-9a4b6f3ab588" />
+
 
 
 ## Если не получилось

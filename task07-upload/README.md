@@ -51,6 +51,12 @@ Artifactory сам посчитал контрольные суммы при з�
 
 Файл опубликован по адресу `myapp-local/myapp/1.0.0/`.
 
+<img width="1436" height="522" alt="image" src="https://github.com/user-attachments/assets/57fd1563-f9d6-4e97-a0b9-516ca12ed2ce" />
+
+<img width="1226" height="513" alt="image" src="https://github.com/user-attachments/assets/b43013e7-616c-4a8d-b05f-0eb249ae0f76" />
+
+
+
 **В отчёт:** JSON из ответа сервера.
 
 ## Если не получилось

@@ -41,7 +41,8 @@ curl -s -u admin:ВАШ_ПАРОЛЬ \
 
 ## Результат
 
-![Uploading image.png…]()
+<img width="1440" height="616" alt="image" src="https://github.com/user-attachments/assets/aa2a0082-b533-4000-83e0-2fd79b231663" />
+
 
 
 Вы умеете получать информацию о любом файле и папке в хранилище.

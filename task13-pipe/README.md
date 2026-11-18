@@ -41,6 +41,9 @@ curl ... | grep "sha256" | cut -d'"' -f4
 
 На экране — только значение sha256, без JSON.
 
+<img width="936" height="76" alt="image" src="https://github.com/user-attachments/assets/c6ae9243-8a7c-4124-a9aa-fc76d1d60347" />
+
+
 **В отчёт:** готовую строку конвейера из `info.sh`.
 
 > В настоящих проектах JSON разбирают утилитой `jq`:

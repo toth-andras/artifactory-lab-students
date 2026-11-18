@@ -45,6 +45,13 @@ curl -s -u admin:ВАШ_ПАРОЛЬ -X POST \
 Не забудьте звёздочку в конце.
 
 ## Результат
+Итоговый запрос:
+```
+curl -s -u admin:Password1 -X POST \
+  -H "Content-Type: text/plain" \
+  -d 'items.find({"repo": "myapp-local", "path": {"$match": "myapp/1.0.0*"}})' \
+  http://localhost:8081/artifactory/api/search/aql
+```
 
 Второй запрос возвращает ровно один файл — `myapp/1.0.0/myapp-1.0.0.tar.gz`.
 

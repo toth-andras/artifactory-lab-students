@@ -28,6 +28,8 @@
 (настройки, иконка шестерёнки).
 
 ## Результат
+<img width="1467" height="541" alt="image" src="https://github.com/user-attachments/assets/ca449bd2-c636-466d-a929-2f7362df84be" />
+
 
 Вы вошли под admin и сменили пароль.
 
